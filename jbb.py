@@ -1,0 +1,1 @@
+print("Jai Bajrang bali")
